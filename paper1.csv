@@ -1,0 +1,126 @@
+,id,title
+0,http://arxiv.org/abs/cs/9809005v1,"The Five-Minute Rule Ten Years Later, and Other Computer Storage Rules
+  of Thumb"
+1,http://arxiv.org/abs/cs/9809023v2,Similarity-Based Queries for Time Series Data
+2,http://arxiv.org/abs/cs/9809033v2,Efficient Retrieval of Similar Time Sequences Using DFT
+3,http://arxiv.org/abs/cs/9909016v1,Least expected cost query optimization: an exercise in utility
+4,http://arxiv.org/abs/cs/9910021v1,Efficient and Extensible Algorithms for Multi Query Optimization
+5,http://arxiv.org/abs/cs/9912015v1,Comparative Analysis of Five XML Query Languages
+6,http://arxiv.org/abs/cs/0007044v2,"Managing Periodically Updated Data in Relational Databases: A Stochastic
+  Modeling Approach"
+7,http://arxiv.org/abs/cs/0011024v1,Algorithms for Rewriting Aggregate Queries Using Views
+8,http://arxiv.org/abs/cs/0011041v1,EquiX---A Search and Query Language for XML
+9,http://arxiv.org/abs/cs/0103004v1,"Rapid Application Evolution and Integration Through Document
+  Metamorphosis"
+10,http://arxiv.org/abs/cs/0106055v1,A Seamless Integration of Association Rule Mining with Database Systems
+11,http://arxiv.org/abs/cs/0109084v1,The Internet and Community Networks: Case Studies of Five U.S. Cities
+12,http://arxiv.org/abs/cs/0110020v1,"Structuring Business Metadata in Data Warehouse Systems for Effective
+  Business Support"
+13,http://arxiv.org/abs/cs/0110044v1,EquiX--A Search and Query Language for XML
+14,http://arxiv.org/abs/cs/0110052v1,Mragyati : A System for Keyword-based Searching in Databases
+15,http://arxiv.org/abs/cs/0111004v1,The Relational Database Aspects of Argonne's ATLAS Control System
+16,http://arxiv.org/abs/cs/0111006v1,Proliferation of SDDS Support for Various Platforms and Languages
+17,http://arxiv.org/abs/cs/0202035v1,Sprinkling Selections over Join DAGs for Efficient Query Optimization
+18,http://arxiv.org/abs/cs/0202037v2,Towards practical meta-querying
+19,http://arxiv.org/abs/cs/0204010v1,On the Computational Complexity of Consistent Query Answers
+20,http://arxiv.org/abs/cs/0205060v1,Optimizing Queries Using a Meta-level Database
+21,http://arxiv.org/abs/cs/0207093v1,Preference Queries
+22,http://arxiv.org/abs/cs/0207094v1,Answer Sets for Consistent Query Answering in Inconsistent Databases
+23,http://arxiv.org/abs/cs/0211020v2,"Monadic Datalog and the Expressive Power of Languages for Web
+  Information Extraction"
+24,http://arxiv.org/abs/cs/0212004v1,Minimal-Change Integrity Maintenance Using Tuple Deletions
+25,http://arxiv.org/abs/cs/0212017v1,Classes of Spatiotemporal Objects and Their Closure Properties
+26,http://arxiv.org/abs/cs/0212051v1,ExploitingWeb Service Semantics: Taxonomies vs. Ontologies
+27,http://arxiv.org/abs/cs/0212052v1,"Improving the Functionality of UDDI Registries through Web Service
+  Semantics"
+28,http://arxiv.org/abs/cs/0301009v1,A Script Language for Data Integration in Database
+29,http://arxiv.org/abs/cs/0301017v1,"Completeness and Decidability Properties for Functional Dependencies in
+  XML"
+30,http://arxiv.org/abs/cs/0305038v1,The Evolution of the Computerized Database
+31,http://arxiv.org/abs/cs/0306006v2,"Experience with the Open Source based implementation for ATLAS
+  Conditions Data Management System"
+32,http://arxiv.org/abs/cs/0306013v1,Transparent Persistence with Java Data Objects
+33,http://arxiv.org/abs/cs/0306019v1,Relational databases for data management in PHENIX
+34,http://arxiv.org/abs/cs/0306020v2,"On the Verge of One Petabyte - the Story Behind the BaBar Database
+  System"
+35,http://arxiv.org/abs/cs/0306034v1,A ROOT/IO Based Software Framework for CMS
+36,http://arxiv.org/abs/cs/0306056v1,Twelve Ways to Build CMS Crossings from ROOT Files
+37,http://arxiv.org/abs/cs/0306065v1,"POOL File Catalog, Collection and Metadata Components"
+38,http://arxiv.org/abs/cs/0306066v1,The COMPASS Event Store in 2002
+39,http://arxiv.org/abs/cs/0306077v1,The TESLA Requirements Database
+40,http://arxiv.org/abs/cs/0306079v1,Integrated Information Management for TESLA
+41,http://arxiv.org/abs/cs/0306081v1,"An on-line Integrated Bookkeeping: electronic run log book and Meta-Data
+  Repository for ATLAS"
+42,http://arxiv.org/abs/cs/0307015v2,"Architecture of an Open-Sourced, Extensible Data Warehouse Builder:
+  InterBase 6 Data Warehouse Builder (IB-DWB)"
+43,http://arxiv.org/abs/cs/0307073v1,Search and Navigation in Relational Databases
+44,http://arxiv.org/abs/cs/0309011v1,Indexing of Tables Referencing Complex Structures
+45,http://arxiv.org/abs/cs/0310006v1,The Lowell Database Research Self Assessment
+46,http://arxiv.org/abs/cs/0310012v1,A Formal Comparison of Visual Web Wrapper Generators
+47,http://arxiv.org/abs/cs/0310028v1,Providing Diversity in K-Nearest Neighbor Query Results
+48,http://arxiv.org/abs/cs/0310035v1,Supporting Exploratory Queries in Database Centric Web Applications
+49,http://arxiv.org/abs/cs/0310038v1,On Addressing Efficiency Concerns in Privacy Preserving Data Mining
+50,http://arxiv.org/abs/cs/0311038v1,"XPath-Logic and XPathLog: A Logic-Programming Style XML Data
+  Manipulation Language"
+51,http://arxiv.org/abs/cs/0312042v1,Declarative Semantics for Active Rules
+52,http://arxiv.org/abs/cs/0312043v1,On A Theory of Probabilistic Deductive Databases
+53,http://arxiv.org/abs/cs/0401014v1,Nested Intervals with Farey Fractions
+54,http://arxiv.org/abs/cs/0402003v1,Semantic Optimization of Preference Queries
+55,http://arxiv.org/abs/cs/0402051v2,Nested Intervals Tree Encoding with Continued Fractions
+56,http://arxiv.org/abs/cs/0403014v2,Search Efficiency in Indexing Structures for Similarity Searching
+57,http://arxiv.org/abs/cs/0403017v1,"Extending the SDSS Batch Query System to the National Virtual
+  Observatory Grid"
+58,http://arxiv.org/abs/cs/0403018v1,The World Wide Telescope: An Archetype for Online Science
+59,http://arxiv.org/abs/cs/0403020v1,"The Sloan Digital Sky Survey Science Archive: Migrating a Multi-Terabyte
+  Astronomical Archive from Object to Relational DBMS"
+60,http://arxiv.org/abs/cs/0404003v1,Enhancing the expressive power of the U-Datalog language
+61,http://arxiv.org/abs/cs/0405076v1,An Abductive Framework For Computing Knowledge Base Updates
+62,http://arxiv.org/abs/cs/0406004v1,Application of Business Intelligence In Banks (Pakistan)
+63,http://arxiv.org/abs/cs/0406016v1,"Schema-based Scheduling of Event Processors and Buffer Minimization for
+  Queries on Structured Data Streams"
+64,http://arxiv.org/abs/cs/0406029v1,Subset Queries in Relational Databases
+65,http://arxiv.org/abs/cs/0408030v1,The Revolution In Database System Architecture
+66,http://arxiv.org/abs/cs/0408031v1,There Goes the Neighborhood: Relational Algebra for Spatial Data Search
+67,http://arxiv.org/abs/cs/0408051v1,Scalable XSLT Evaluation
+68,http://arxiv.org/abs/cs/0409020v1,"A Generalized Disjunctive Paraconsistent Data Model for Negative and
+  Disjunctive Information"
+69,http://arxiv.org/abs/cs/0410001v2,The Infati Data
+70,http://arxiv.org/abs/cs/0410038v1,Frequent Knot Discovery
+71,http://arxiv.org/abs/cs/0410053v1,"An Extended Generalized Disjunctive Paraconsistent Data Model for
+  Disjunctive Information"
+72,http://arxiv.org/abs/cs/0410054v1,Paraconsistent Intuitionistic Fuzzy Relational Data Model
+73,http://arxiv.org/abs/cs/0410070v1,Using image partitions in 4th Dimension
+74,http://arxiv.org/abs/cs/0501029v1,"Estimating Range Queries using Aggregate Data with Integrity
+  Constraints: a Probabilistic Approach"
+75,http://arxiv.org/abs/cs/0501053v3,Relational Algebra as non-Distributive Lattice
+76,http://arxiv.org/abs/cs/0503012v2,"First-order Complete and Computationally Complete Query Languages for
+  Spatio-Temporal Databases"
+77,http://arxiv.org/abs/cs/0503022v2,Theory and Practice of Transactional Method Caching
+78,http://arxiv.org/abs/cs/0505038v1,Efficient Management of Short-Lived Data
+79,http://arxiv.org/abs/cs/0505059v1,"Consistent query answers on numerical databases under aggregate
+  constraints"
+80,http://arxiv.org/abs/cs/0505074v1,Instance-Independent View Serializability for Semistructured Databases
+81,http://arxiv.org/abs/cs/0506002v1,HepToX: Heterogeneous Peer to Peer XML Databases
+82,http://arxiv.org/abs/cs/0506026v1,Database Reformulation with Integrity Constraints (extended abstract)
+83,http://arxiv.org/abs/cs/0506063v1,Priority-Based Conflict Resolution in Inconsistent Relational Databases
+84,http://arxiv.org/abs/cs/0508120v1,"Iterative Algorithm for Finding Frequent Patterns in Transactional
+  Databases"
+85,http://arxiv.org/abs/cs/0509088v1,"Business intelligence systems and user's parameters: an application to a
+  documents' database"
+86,http://arxiv.org/abs/cs/0511106v1,"Benefits of InterSite Pre-Processing and Clustering Methods in
+  E-Commerce Domain"
+87,http://arxiv.org/abs/cs/0602039v1,Path Summaries and Path Partitioning in Modern XML Databases
+88,http://arxiv.org/abs/cs/0603044v2,First Steps in Relational Lattice
+89,http://arxiv.org/abs/cs/0604076v1,Semantically Correct Query Answers in the Presence of Null Values
+90,http://arxiv.org/abs/cs/0605124v1,Semantics and Complexity of SPARQL
+91,http://arxiv.org/abs/cs/0606075v2,"10^(10^6) Worlds and Beyond: Efficient Representation and Processing of
+  Incomplete Information"
+92,http://arxiv.org/abs/cs/0609144v1,"The Management and Integration of Biomedical Knowledge: Application in
+  the Health-e-Child Project (Position Paper)"
+93,http://arxiv.org/abs/cs/0610020v2,XString: XML as a String
+94,http://arxiv.org/abs/cs/0611031v2,Efficient Threshold Aggregation of Moving Objects
+95,http://arxiv.org/abs/cs/0611094v1,Reducing Order Enforcement Cost in Complex Query Plans
+96,http://arxiv.org/abs/cs/0612102v2,The Dichotomy of Conjunctive Queries on Probabilistic Structures
+97,http://arxiv.org/abs/cs/0612103v1,The Boundary Between Privacy and Utility in Data Anonymization
+98,http://arxiv.org/abs/cs/0612110v1,Architecture for Modular Data Centers
+99,http://arxiv.org/abs/cs/0612111v1,Fragmentation in Large Object Repositories

@@ -1,0 +1,1001 @@
+,id,fname,lname
+0,0,Jim,Gray
+1,1,Goetz,Graefe
+2,2,Davood,Rafiei
+3,3,Alberto,Mendelzon
+4,4,Davood,Rafiei
+5,5,Alberto,Mendelzon
+6,6,Francis,Chu
+7,7,Joseph,Halpern
+8,8,Praveen,Seshadri
+9,9,Prasan,Roy
+10,10,S.,Seshadri
+11,11,S.,Sudarshan
+12,12,Siddhesh,Bhobe
+13,13,Angela,Bonifati
+14,14,Stefano,Ceri
+15,15,Avigdor,Gal
+16,16,Jonathan,Eckstein
+17,17,Sara,Cohen
+18,18,Werner,Nutt
+19,19,Alexander,Serebrenik
+20,20,Sara,Cohen
+21,21,Yaron,Kanza
+22,22,Yakov,Kogan
+23,23,Werner,Nutt
+24,24,Yehoshua,Sagiv
+25,25,Alexander,Serebrenik
+26,26,Paul,Aoki
+27,27,Ian,Smith
+28,28,James,Thornton
+29,29,Raj,Gopalan
+30,30,Tariq,Nuruddin
+31,31,Yudho,Sucahyo
+32,32,John,Horrigan
+33,33,N.,Sarda
+34,34,Sara,Cohen
+35,35,Yaron,Kanza
+36,36,Yakov,Kogan
+37,37,Werner,Nutt
+38,38,Yehoshua,Sagiv
+39,39,Alexander,Serebrenik
+40,40,N.,Sarda
+41,41,Ankur,Jain
+42,42,D.,Quock
+43,43,F.,Munson
+44,44,K.,Eder
+45,45,S.,Dean
+46,46,Robert,Soliday
+47,47,Satyanarayana,Valluri
+48,48,Soujanya,Vadapalli
+49,49,Kamalakar,Karlapalem
+50,50,Jan,Bussche
+51,51,Stijn,Vansummeren
+52,52,Gottfried,Vossen
+53,53,Jan,Chomicki
+54,54,Jerzy,Marcinkowski
+55,55,Christoph,Koch
+56,56,Jan,Chomicki
+57,57,Marcelo,Arenas
+58,58,Leopoldo,Bertossi
+59,59,Jan,Chomicki
+60,60,Georg,Gottlob
+61,61,Christoph,Koch
+62,62,Jan,Chomicki
+63,63,Jerzy,Marcinkowski
+64,64,Jan,Chomicki
+65,65,Sofie,Haesevoets
+66,66,Bart,Kuijpers
+67,67,Peter,Revesz
+68,68,Asuman,Dogac
+69,69,Gokce,Laleci
+70,70,Yildiray,Kabak
+71,71,Ibrahim,Cingil
+72,72,Asuman,Dogac
+73,73,Ibrahim,Cingil
+74,74,Gokce,Laleci
+75,75,Yildiray,Kabak
+76,76,Qingguo,Zheng
+77,77,Millist,Vincent
+78,78,Jixue,Liu
+79,79,Nancy,Bercich
+80,80,A.,Amorim
+81,81,J.,Lima
+82,82,C.,Oliveira
+83,83,L.,Pedro
+84,84,N.,Barros
+85,85,Julius,Hrivnac
+86,86,I.,Sourikova
+87,87,D.,Morrison
+88,88,Adeyemi,Adesanya
+89,89,Tofigh,Azemoon
+90,90,Jacek,Becla
+91,91,Andrew,Hanushevsky
+92,92,Adil,Hasan
+93,93,Wilko,Kroeger
+94,94,Artem,Trunov
+95,95,Daniel,Wang
+96,96,Igor,Gaponenko
+97,97,Simon,Patton
+98,98,David,Quarrie
+99,99,William,Tanenbaum
+100,100,D.,Chamont
+101,101,C.,Charlot
+102,102,C.,Cioffi
+103,103,S.,Eckmann
+104,104,M.,Girone
+105,105,J.,Hrivnac
+106,106,D.,Malon
+107,107,H.,Schmuecker
+108,108,A.,Vaniachine
+109,109,J.,Wojcieszuk
+110,110,Z.,Xie
+111,111,Venicio,Duic
+112,112,Massimo,Lamanna
+113,113,Lars,Hagge
+114,114,Jens,Kreutzkamp
+115,115,Kathrin,Lappe
+116,116,Jochen,Buerger
+117,117,Lars,Hagge
+118,118,Jens,Kreutzkamp
+119,119,Kathrin,Lappe
+120,120,Andrea,Robben
+121,121,M.,Barczyc
+122,122,D.,Burckhart-Chromek
+123,123,M.,Caprini
+124,124,J.,Conceicao
+125,125,M.,Dobson
+126,126,J.,Flammer
+127,127,R.,Jones
+128,128,A.,Kazarov
+129,129,S.,Kolos
+130,130,D.,Liko
+131,131,L.,Mapelli
+132,132,I.,Soloviev
+133,133,R.,NIKHEF
+134,134,A.,Amorim
+135,135,D.,Klose
+136,136,J.,Lima
+137,137,L.,Lucio
+138,138,L.,Pedro
+139,139,H.,Wolters
+140,140,E.,NIPNE
+141,141,I.,Alexandrov
+142,142,V.,Kotov
+143,143,M.,JINR
+144,144,Yu.,PNPI
+145,145,Maurice,Ling
+146,146,Chi,So
+147,147,Richard,Wheeldon
+148,148,Mark,Levene
+149,149,Kevin,Keenoy
+150,150,Agust,Egilsson
+151,151,Hakon,Gudbjartsson
+152,152,Serge,Abiteboul
+153,153,Rakesh,Agrawal
+154,154,Phil,Bernstein
+155,155,Mike,Carey
+156,156,Stefano,Ceri
+157,157,Bruce,Croft
+158,158,David,DeWitt
+159,159,Mike,Franklin
+160,160,Hector,Molina
+161,161,Dieter,Gawlick
+162,162,Jim,Gray
+163,163,Laura,Haas
+164,164,Alon,Halevy
+165,165,Joe,Hellerstein
+166,166,Yannis,Ioannidis
+167,167,Martin,Kersten
+168,168,Michael,Pazzani
+169,169,Mike,Lesk
+170,170,David,Maier
+171,171,Jeff,Naughton
+172,172,Hans,Schek
+173,173,Timos,Sellis
+174,174,Avi,Silberschatz
+175,175,Mike,Stonebraker
+176,176,Rick,Snodgrass
+177,177,Jeff,Ullman
+178,178,Gerhard,Weikum
+179,179,Jennifer,Widom
+180,180,Stan,Zdonik
+181,181,Georg,Gottlob
+182,182,Christoph,Koch
+183,183,Anoop,Jain
+184,184,Parag,Sarda
+185,185,Jayant,Haritsa
+186,186,Abhijit,Kadlag
+187,187,Amol,Wanjari
+188,188,Juliana,Freire
+189,189,Jayant,Haritsa
+190,190,Shipra,Agrawal
+191,191,Vijay,Krishnan
+192,192,Jayant,Haritsa
+193,193,Wolfgang,May
+194,194,Sergio,Flesca
+195,195,Sergio,Greco
+196,196,Laks,Lakshmanan
+197,197,Fereidoon,Sadri
+198,198,Vadim,Tropashko
+199,199,Jan,Chomicki
+200,200,Vadim,Tropashko
+201,201,Girish,Motwani
+202,202,Sandhya,Nair
+203,203,Maria,Nieto-Santisteban
+204,204,William,O'Mullane
+205,205,Jim,Gray
+206,206,Nolan,Li
+207,207,Tamas,Budavari
+208,208,Alexander,Szalay
+209,209,Aniruddha,Thakar
+210,210,Jim,Gray
+211,211,Alexander,Szalay
+212,212,Aniruddha,Thakar
+213,213,Alexander,Szalay
+214,214,Peter,Kunszt
+215,215,Jim,Gray
+216,216,Elisa,Bertino
+217,217,Barbara,Catania
+218,218,Roberta,Gori
+219,219,Chiaki,Sakama
+220,220,Katsumi,Inoue
+221,221,Muhammad,Nadeem
+222,222,Syed,Jaffri
+223,223,Christoph,Koch
+224,224,Stefanie,Scherzinger
+225,225,Nicole,Schweikardt
+226,226,Bernhard,Stegmaier
+227,227,Satyanarayana,Valluri
+228,228,Kamalakar,Karlapalem
+229,229,Jim,Gray
+230,230,Jim,Gray
+231,231,Alexander,Szalay
+232,232,Aniruddha,Thakar
+233,233,Gyorgy,Fekete
+234,234,William,O'Mullane
+235,235,Maria,Nieto-Santisteban
+236,236,Gerd,Heber
+237,237,Arnold,Rots
+238,238,Zhimao,Guo
+239,239,Min,Li
+240,240,Xiaoling,Wang
+241,241,Aoying,Zhou
+242,242,Haibin,Wang
+243,243,Yuanchun,He
+244,244,Rajshekhar,Sunderraman
+245,245,C.,Jensen
+246,246,H.,Lahrmann
+247,247,S.,Pakalnis
+248,248,J.,Runge
+249,249,Floris,Geerts
+250,250,Haibin,Wang
+251,251,Hao,Tian
+252,252,Rajshekhar,Sunderraman
+253,253,Rajshekhar,Sunderraman
+254,254,Haibin,Wang
+255,255,Giovanni,Gasparri
+256,256,Francesco,Buccafurri
+257,257,Filippo,Furfaro
+258,258,Domenico,Sacca'
+259,259,Vadim,Tropashko
+260,260,Floris,Geerts
+261,261,Sofie,Haesevoets
+262,262,Bart,Kuijpers
+263,263,Daniel,Pfeifer
+264,264,Peter,Lockemann
+265,265,Albrecht,Schmidt
+266,266,Christian,Jensen
+267,267,Sergio,Flesca
+268,268,Filippo,Furfaro
+269,269,Francesco,Parisi
+270,270,Stijn,Dekeyser
+271,271,Jan,Hidders
+272,272,Jan,Paredaens
+273,273,Roel,Vercammen
+274,274,Angela,Bonifati
+275,275,Elaine,Chang
+276,276,Terence,Ho
+277,277,Laks,Lakshmanan
+278,278,Rada,Chirkova
+279,279,Michael,Genesereth
+280,280,Slawomir,Staworko
+281,281,Jan,Chomicki
+282,282,Gennady,Berman
+283,283,Vyacheslav,Gorshkov
+284,284,Edward,MacKerrow
+285,285,Xidi,Wang
+286,286,Babajide,Afolabi
+287,287,Odile,Thiery
+288,288,Sergiu,Chelcea
+289,289,Alzennyr,Silva
+290,290,Yves,Lechevallier
+291,291,Doru,Tanasa
+292,292,Brigitte,Trousse
+293,293,Andrei,Arion
+294,294,Angela,Bonifati
+295,295,Ioana,Manolescu
+296,296,Andrea,Pugliese
+297,297,Marshall,Spight
+298,298,Vadim,Tropashko
+299,299,Loreto,Bravo
+300,300,Leopoldo,Bertossi
+301,301,Jorge,Perez
+302,302,Marcelo,Arenas
+303,303,Claudio,Gutierrez
+304,304,Lyublena,Antova
+305,305,Christoph,Koch
+306,306,Dan,Olteanu
+307,307,E.,Jimenez-Ruiz
+308,308,R.,Berlanga
+309,309,I.,Sanz
+310,310,R.,McClatchey
+311,311,R.,Danger
+312,312,D.,Manset
+313,313,J.,Paraire
+314,314,A.,Rios
+315,315,William,Gilreath
+316,316,Scot,Anderson
+317,317,Peter,Revesz
+318,318,Ravindra,Guravannavar
+319,319,S,Sudarshan
+320,320,Ajit,Diwan
+321,321,Ch.,Babu
+322,322,Nilesh,Dalvi
+323,323,Dan,Suciu
+324,324,Vibhor,Rastogi
+325,325,Dan,Suciu
+326,326,Sungho,Hong
+327,327,James,Hamilton
+328,328,Russell,Sears
+329,329,Catharine,Ingen
+330, , , 
+331, , , 
+332, , , 
+333, , , 
+334, , , 
+335, , , 
+336, , , 
+337, , , 
+338, , , 
+339, , , 
+340, , , 
+341, , , 
+342, , , 
+343, , , 
+344, , , 
+345, , , 
+346, , , 
+347, , , 
+348, , , 
+349, , , 
+350, , , 
+351, , , 
+352, , , 
+353, , , 
+354, , , 
+355, , , 
+356, , , 
+357, , , 
+358, , , 
+359, , , 
+360, , , 
+361, , , 
+362, , , 
+363, , , 
+364, , , 
+365, , , 
+366, , , 
+367, , , 
+368, , , 
+369, , , 
+370, , , 
+371, , , 
+372, , , 
+373, , , 
+374, , , 
+375, , , 
+376, , , 
+377, , , 
+378, , , 
+379, , , 
+380, , , 
+381, , , 
+382, , , 
+383, , , 
+384, , , 
+385, , , 
+386, , , 
+387, , , 
+388, , , 
+389, , , 
+390, , , 
+391, , , 
+392, , , 
+393, , , 
+394, , , 
+395, , , 
+396, , , 
+397, , , 
+398, , , 
+399, , , 
+400, , , 
+401, , , 
+402, , , 
+403, , , 
+404, , , 
+405, , , 
+406, , , 
+407, , , 
+408, , , 
+409, , , 
+410, , , 
+411, , , 
+412, , , 
+413, , , 
+414, , , 
+415, , , 
+416, , , 
+417, , , 
+418, , , 
+419, , , 
+420, , , 
+421, , , 
+422, , , 
+423, , , 
+424, , , 
+425, , , 
+426, , , 
+427, , , 
+428, , , 
+429, , , 
+430, , , 
+431, , , 
+432, , , 
+433, , , 
+434, , , 
+435, , , 
+436, , , 
+437, , , 
+438, , , 
+439, , , 
+440, , , 
+441, , , 
+442, , , 
+443, , , 
+444, , , 
+445, , , 
+446, , , 
+447, , , 
+448, , , 
+449, , , 
+450, , , 
+451, , , 
+452, , , 
+453, , , 
+454, , , 
+455, , , 
+456, , , 
+457, , , 
+458, , , 
+459, , , 
+460, , , 
+461, , , 
+462, , , 
+463, , , 
+464, , , 
+465, , , 
+466, , , 
+467, , , 
+468, , , 
+469, , , 
+470, , , 
+471, , , 
+472, , , 
+473, , , 
+474, , , 
+475, , , 
+476, , , 
+477, , , 
+478, , , 
+479, , , 
+480, , , 
+481, , , 
+482, , , 
+483, , , 
+484, , , 
+485, , , 
+486, , , 
+487, , , 
+488, , , 
+489, , , 
+490, , , 
+491, , , 
+492, , , 
+493, , , 
+494, , , 
+495, , , 
+496, , , 
+497, , , 
+498, , , 
+499, , , 
+500, , , 
+501, , , 
+502, , , 
+503, , , 
+504, , , 
+505, , , 
+506, , , 
+507, , , 
+508, , , 
+509, , , 
+510, , , 
+511, , , 
+512, , , 
+513, , , 
+514, , , 
+515, , , 
+516, , , 
+517, , , 
+518, , , 
+519, , , 
+520, , , 
+521, , , 
+522, , , 
+523, , , 
+524, , , 
+525, , , 
+526, , , 
+527, , , 
+528, , , 
+529, , , 
+530, , , 
+531, , , 
+532, , , 
+533, , , 
+534, , , 
+535, , , 
+536, , , 
+537, , , 
+538, , , 
+539, , , 
+540, , , 
+541, , , 
+542, , , 
+543, , , 
+544, , , 
+545, , , 
+546, , , 
+547, , , 
+548, , , 
+549, , , 
+550, , , 
+551, , , 
+552, , , 
+553, , , 
+554, , , 
+555, , , 
+556, , , 
+557, , , 
+558, , , 
+559, , , 
+560, , , 
+561, , , 
+562, , , 
+563, , , 
+564, , , 
+565, , , 
+566, , , 
+567, , , 
+568, , , 
+569, , , 
+570, , , 
+571, , , 
+572, , , 
+573, , , 
+574, , , 
+575, , , 
+576, , , 
+577, , , 
+578, , , 
+579, , , 
+580, , , 
+581, , , 
+582, , , 
+583, , , 
+584, , , 
+585, , , 
+586, , , 
+587, , , 
+588, , , 
+589, , , 
+590, , , 
+591, , , 
+592, , , 
+593, , , 
+594, , , 
+595, , , 
+596, , , 
+597, , , 
+598, , , 
+599, , , 
+600, , , 
+601, , , 
+602, , , 
+603, , , 
+604, , , 
+605, , , 
+606, , , 
+607, , , 
+608, , , 
+609, , , 
+610, , , 
+611, , , 
+612, , , 
+613, , , 
+614, , , 
+615, , , 
+616, , , 
+617, , , 
+618, , , 
+619, , , 
+620, , , 
+621, , , 
+622, , , 
+623, , , 
+624, , , 
+625, , , 
+626, , , 
+627, , , 
+628, , , 
+629, , , 
+630, , , 
+631, , , 
+632, , , 
+633, , , 
+634, , , 
+635, , , 
+636, , , 
+637, , , 
+638, , , 
+639, , , 
+640, , , 
+641, , , 
+642, , , 
+643, , , 
+644, , , 
+645, , , 
+646, , , 
+647, , , 
+648, , , 
+649, , , 
+650, , , 
+651, , , 
+652, , , 
+653, , , 
+654, , , 
+655, , , 
+656, , , 
+657, , , 
+658, , , 
+659, , , 
+660, , , 
+661, , , 
+662, , , 
+663, , , 
+664, , , 
+665, , , 
+666, , , 
+667, , , 
+668, , , 
+669, , , 
+670, , , 
+671, , , 
+672, , , 
+673, , , 
+674, , , 
+675, , , 
+676, , , 
+677, , , 
+678, , , 
+679, , , 
+680, , , 
+681, , , 
+682, , , 
+683, , , 
+684, , , 
+685, , , 
+686, , , 
+687, , , 
+688, , , 
+689, , , 
+690, , , 
+691, , , 
+692, , , 
+693, , , 
+694, , , 
+695, , , 
+696, , , 
+697, , , 
+698, , , 
+699, , , 
+700, , , 
+701, , , 
+702, , , 
+703, , , 
+704, , , 
+705, , , 
+706, , , 
+707, , , 
+708, , , 
+709, , , 
+710, , , 
+711, , , 
+712, , , 
+713, , , 
+714, , , 
+715, , , 
+716, , , 
+717, , , 
+718, , , 
+719, , , 
+720, , , 
+721, , , 
+722, , , 
+723, , , 
+724, , , 
+725, , , 
+726, , , 
+727, , , 
+728, , , 
+729, , , 
+730, , , 
+731, , , 
+732, , , 
+733, , , 
+734, , , 
+735, , , 
+736, , , 
+737, , , 
+738, , , 
+739, , , 
+740, , , 
+741, , , 
+742, , , 
+743, , , 
+744, , , 
+745, , , 
+746, , , 
+747, , , 
+748, , , 
+749, , , 
+750, , , 
+751, , , 
+752, , , 
+753, , , 
+754, , , 
+755, , , 
+756, , , 
+757, , , 
+758, , , 
+759, , , 
+760, , , 
+761, , , 
+762, , , 
+763, , , 
+764, , , 
+765, , , 
+766, , , 
+767, , , 
+768, , , 
+769, , , 
+770, , , 
+771, , , 
+772, , , 
+773, , , 
+774, , , 
+775, , , 
+776, , , 
+777, , , 
+778, , , 
+779, , , 
+780, , , 
+781, , , 
+782, , , 
+783, , , 
+784, , , 
+785, , , 
+786, , , 
+787, , , 
+788, , , 
+789, , , 
+790, , , 
+791, , , 
+792, , , 
+793, , , 
+794, , , 
+795, , , 
+796, , , 
+797, , , 
+798, , , 
+799, , , 
+800, , , 
+801, , , 
+802, , , 
+803, , , 
+804, , , 
+805, , , 
+806, , , 
+807, , , 
+808, , , 
+809, , , 
+810, , , 
+811, , , 
+812, , , 
+813, , , 
+814, , , 
+815, , , 
+816, , , 
+817, , , 
+818, , , 
+819, , , 
+820, , , 
+821, , , 
+822, , , 
+823, , , 
+824, , , 
+825, , , 
+826, , , 
+827, , , 
+828, , , 
+829, , , 
+830, , , 
+831, , , 
+832, , , 
+833, , , 
+834, , , 
+835, , , 
+836, , , 
+837, , , 
+838, , , 
+839, , , 
+840, , , 
+841, , , 
+842, , , 
+843, , , 
+844, , , 
+845, , , 
+846, , , 
+847, , , 
+848, , , 
+849, , , 
+850, , , 
+851, , , 
+852, , , 
+853, , , 
+854, , , 
+855, , , 
+856, , , 
+857, , , 
+858, , , 
+859, , , 
+860, , , 
+861, , , 
+862, , , 
+863, , , 
+864, , , 
+865, , , 
+866, , , 
+867, , , 
+868, , , 
+869, , , 
+870, , , 
+871, , , 
+872, , , 
+873, , , 
+874, , , 
+875, , , 
+876, , , 
+877, , , 
+878, , , 
+879, , , 
+880, , , 
+881, , , 
+882, , , 
+883, , , 
+884, , , 
+885, , , 
+886, , , 
+887, , , 
+888, , , 
+889, , , 
+890, , , 
+891, , , 
+892, , , 
+893, , , 
+894, , , 
+895, , , 
+896, , , 
+897, , , 
+898, , , 
+899, , , 
+900, , , 
+901, , , 
+902, , , 
+903, , , 
+904, , , 
+905, , , 
+906, , , 
+907, , , 
+908, , , 
+909, , , 
+910, , , 
+911, , , 
+912, , , 
+913, , , 
+914, , , 
+915, , , 
+916, , , 
+917, , , 
+918, , , 
+919, , , 
+920, , , 
+921, , , 
+922, , , 
+923, , , 
+924, , , 
+925, , , 
+926, , , 
+927, , , 
+928, , , 
+929, , , 
+930, , , 
+931, , , 
+932, , , 
+933, , , 
+934, , , 
+935, , , 
+936, , , 
+937, , , 
+938, , , 
+939, , , 
+940, , , 
+941, , , 
+942, , , 
+943, , , 
+944, , , 
+945, , , 
+946, , , 
+947, , , 
+948, , , 
+949, , , 
+950, , , 
+951, , , 
+952, , , 
+953, , , 
+954, , , 
+955, , , 
+956, , , 
+957, , , 
+958, , , 
+959, , , 
+960, , , 
+961, , , 
+962, , , 
+963, , , 
+964, , , 
+965, , , 
+966, , , 
+967, , , 
+968, , , 
+969, , , 
+970, , , 
+971, , , 
+972, , , 
+973, , , 
+974, , , 
+975, , , 
+976, , , 
+977, , , 
+978, , , 
+979, , , 
+980, , , 
+981, , , 
+982, , , 
+983, , , 
+984, , , 
+985, , , 
+986, , , 
+987, , , 
+988, , , 
+989, , , 
+990, , , 
+991, , , 
+992, , , 
+993, , , 
+994, , , 
+995, , , 
+996, , , 
+997, , , 
+998, , , 
+999, , , 
